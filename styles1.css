@@ -402,7 +402,7 @@ body.dark footer p{
     }
 }
 @media(max-width:880px){
-    .form-container{
+    .login-form{
         width:100%;
         margin-right: 0px;
         margin-left: 0px;
@@ -414,7 +414,6 @@ body.dark footer p{
     }
     .nav-links{
         display: none;
-        font-size: 2pxx;
     }
     .auth-buttons{
         display: none;
@@ -435,4 +434,5 @@ body.dark footer p{
     .ham-menu:hover{
         transform: scale(1.1);
     }
+
 }
